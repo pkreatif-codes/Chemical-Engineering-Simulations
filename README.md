@@ -111,8 +111,6 @@ limitations, and applicable operating conditions.
 
 - Aspen Plus
 - Aspen HYSYS
-- MATLAB
-- Python
 - Excel
 
 Tools listed here are intended areas of use; individual project
@@ -125,7 +123,5 @@ documentation identifies the software actually used.
 ```text
 Aspen-Plus/       Aspen Plus process simulations
 Aspen-HYSYS/      Aspen HYSYS projects
-MATLAB/           Engineering calculations and numerical models
-Python/           Engineering scripts and modelling
 Data-Analysis/    Regression and data analysis
 docs/             Shared technical documentation
