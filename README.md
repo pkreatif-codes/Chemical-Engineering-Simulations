@@ -46,9 +46,6 @@ Additional tools and technologies will be included as I develop and document pro
 
 I believe engineering knowledge becomes more valuable when theory is connected to practical implementation. I am committed to learning by building, testing assumptions, analysing results, documenting limitations, and continuously improving my technical skills.
 
-## Current Focus
-
-Developing a documented portfolio of chemical engineering simulations and process-analysis projects, with an emphasis on sound engineering reasoning, transparent assumptions, and reproducible results.
 
 ## Contact & Collaboration
 
