@@ -5,4 +5,4 @@ developed using Aspen Plus.
 
 ## Projects
 
-- [01 — Ethylene-Isobutane-to-Octane](01-Ethylene-Isobutane-to-Octane/)
+- [Ethylene-Isobutane-to-Octane](Ethylene-Isobutane-to-Octane/)
