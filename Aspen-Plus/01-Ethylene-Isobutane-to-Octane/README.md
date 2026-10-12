@@ -36,7 +36,7 @@ The main equipment in the flowsheet includes:
 
 ## Flowsheet
 
-![Aspen Plus Process Flowsheet](flowsheet.png)
+![Aspen Plus Process Flowsheet](Flowsheet.png)
 
 *The flowsheet screenshot will be displayed here once uploaded.*
 
