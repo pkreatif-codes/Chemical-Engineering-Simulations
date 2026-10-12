@@ -38,8 +38,6 @@ The main equipment in the flowsheet includes:
 
 ![Aspen Plus Process Flowsheet](Flowsheet.png)
 
-*The flowsheet screenshot will be displayed here once uploaded.*
-
 ## Reaction Model
 
 The simulation uses the following simplified reaction:
@@ -100,13 +98,11 @@ I organised the results in WPS Spreadsheets and plotted the graphs to make the c
 
 The calculated n-octane component flow remained almost constant across the five temperature cases.
 
-This is worth noting, but it needs to be interpreted in the context of the model: the reactor conversion was specified at 80%, rather than calculated from temperature-dependent reaction kinetics.
+ the reactor conversion was specified at 80%, rather than calculated from temperature-dependent reaction kinetics.
 
 ### 2. Effect of Temperature on Cooler Duty
 
 ![Effect of Temp on Cooler Duty](sensitivity-analysis/Effect%20of%20Temp%20on%20Cooler%20Duty.png)
-
-This was one of the clearest changes in the study.
 
 The reported cooler duty became more negative as the reactor outlet temperature increased. In Aspen Plus, this generally indicates that more heat is being removed from the process.
 
