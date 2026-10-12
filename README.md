@@ -1,127 +1,59 @@
-# Chemical Engineering Simulations
+# Chemical Engineering Simulations & Process Engineering
 
-A growing portfolio of chemical engineering simulations, process
-modelling studies, thermodynamic analysis, and engineering calculations.
+**Samuel Godonu**  
+Chemical Engineering Undergraduate | Process Simulation | Energy & Innovation
 
-This repository documents my work in chemical process simulation,
-process optimization, separation processes, reaction engineering,
-thermodynamics, and data-driven engineering.
+Welcome to my chemical engineering portfolio!
 
-The objective is to develop a practical understanding of chemical
-engineering systems by building process models, analyzing simulation
-results, investigating operating conditions, and documenting
-engineering decisions.
+I am a Chemical Engineering undergraduate at Lagos State University (LASU), Nigeria, with a growing interest in process engineering, energy systems, industrial optimisation, and engineering innovation.
 
----
+I am building my technical capacity through practical engineering simulations, process analysis, and computational approaches to chemical engineering problems. My goal is to connect engineering fundamentals with practical applications and develop solutions that can contribute to more efficient, sustainable, and innovative industrial processes.
 
-## Areas of Focus
+## Areas of Interest
 
-- Chemical process simulation
-- Reaction engineering
-- Separation processes
-- Thermodynamic modelling
-- Material and energy balances
-- Sensitivity analysis
-- Process optimization
-- Recycle and purge systems
-- Vapor-liquid equilibrium
-- Data regression and model validation
-- Energy and economic analysis
-- AI and machine learning for chemical engineering
+- Chemical process simulation and modelling
+- Process design and optimisation
+- Oil, gas, and energy systems
+- Separation processes and thermodynamics
+- Process efficiency and sustainability
+- Computational methods for chemical engineering
 
----
+## Projects
 
-## Simulation Projects
+### 1. Ethylene–Isobutane to N-Octane: Aspen Plus Simulation
 
-### 1. Ethylene and Isobutane to Octane
+A simplified chemical process simulation developed using Aspen Plus V11.
 
-**Software:** Aspen Plus V11  
-**Thermodynamic Model:** Peng-Robinson
+The project investigates a stoichiometric reaction model, recycle streams, flash separation, distillation, and the effect of reactor outlet temperature on selected process outputs.
 
-A simplified process simulation investigating the conversion of
-ethylene and isobutane into n-octane.
+**Current focus:**
+- Process flowsheet development
+- Recycle and purge configuration
+- Separation and product-stream analysis
+- Temperature sensitivity analysis
+- Interpretation of process energy requirements
 
-The flowsheet includes feed mixing, heating, a stoichiometric reactor,
-cooling, flash separation, distillation, and material recycle.
+[View the Aspen Plus projects](Aspen-Plus/)
 
-The project investigates:
+## Tools & Technologies
 
-- Material balance and component conversion
-- Flash separation performance
-- Distillation and product purity
-- Recycle and purge configurations
-- Sensitivity analysis
-- Energy requirements
-- Process optimization
+- **Aspen Plus V11** — chemical process simulation and analysis
+- **WPS Spreadsheets** — data organisation, sensitivity analysis, and graphing
 
-The reaction used in the simplified model is:
+Additional tools and technologies will be included as I develop and document projects using them.
 
-2 C2H4 + C4H10 -> C8H18
+## Engineering Philosophy
 
-This stoichiometric representation is a simplified modelling
-assumption and does not establish the actual industrial reaction
-mechanism or kinetics.
+I believe engineering knowledge becomes more valuable when theory is connected to practical implementation. I am committed to learning by building, testing assumptions, analysing results, documenting limitations, and continuously improving my technical skills.
 
-**Project status:** Process model developed; further analysis ongoing.
+## Current Focus
 
-[View project](Aspen-Plus/01-Ethylene-Isobutane-to-Octane/)
+Developing a documented portfolio of chemical engineering simulations and process-analysis projects, with an emphasis on sound engineering reasoning, transparent assumptions, and reproducible results.
+
+## Contact & Collaboration
+
+I welcome opportunities to learn from engineers and researchers, collaborate on technical projects, and contribute to initiatives in chemical engineering, energy, process optimisation, and industrial innovation.
 
 ---
 
-### 2. Biogas Upgrading and CO2 Removal
-
-**Software:** Aspen Plus
-
-A process simulation investigating the production and upgrading
-of biogas, with emphasis on methane recovery and carbon dioxide removal.
-
-Potential areas of investigation include:
-
-- Gas composition
-- Separation performance
-- Methane recovery
-- Carbon dioxide removal
-- Material and energy balances
-- Process efficiency
-
-**Project status:** Development and analysis.
-
-[View project](Aspen-Plus/02-Biogas-Upgrading/)
-
----
-
-## Technical Methods
-
-The repository may include:
-
-- Steady-state process simulation
-- Material and energy balance calculations
-- Parametric and sensitivity studies
-- Thermodynamic property modelling
-- Regression and experimental data comparison
-- Process performance evaluation
-- Economic and sustainability assessment
-
-Methods and results will be documented with their assumptions,
-limitations, and applicable operating conditions.
-
----
-
-## Tools and Technologies
-
-- Aspen Plus
-- Aspen HYSYS
-- Excel
-
-Tools listed here are intended areas of use; individual project
-documentation identifies the software actually used.
-
----
-
-## Repository Structure
-
-```text
-Aspen-Plus/       Aspen Plus process simulations
-Aspen-HYSYS/      Aspen HYSYS projects
-Data-Analysis/    Regression and data analysis
-docs/             Shared technical documentation
+*This repository documents my ongoing learning and engineering projects. Simulation results are presented within the assumptions and limitations of each model.*
